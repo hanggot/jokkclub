@@ -1,11 +1,9 @@
 {
-    "JokkEnable": false,
-    "JokkLang": ["Russian"],
-    "JokkTimes": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "JokkEnable": true,
+    "JokkLang": ["Spanish"],
+    "JokkTimes": ["Buenos_Aires", "Argentina"],
     "JokkLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wyvrz.life/casino/list?open=register&p=mapv"]}
     ]
  }
